@@ -1,2 +1,3 @@
 Belajar front end developer
 Belajar back end developer
+Belajar full stack developer
